@@ -211,18 +211,5 @@ button:hover {
 }
 
 
-form input,
-form textarea {
-  box-sizing: border-box;
-  width: 100%;
-  border-radius: 8px;
-  border: 1px solid #ccc;
-  padding: 6px 10px;
-}
 
-/* Asegura la negrita en todos los títulos, incluso si alguno es un párrafo */
-form label,
-form p {
-  font-weight: bold;
-}
 
