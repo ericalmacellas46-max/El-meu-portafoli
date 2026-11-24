@@ -188,9 +188,11 @@ form textarea {
 
 input{
     width: 500px;
+    border: 1px solid #ccc;
 }
  textarea{
 width: 500px;
+border: 1px solid #ccc;
  }
 footer{
     margin-top: 15%;
