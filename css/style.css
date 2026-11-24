@@ -180,6 +180,12 @@ form{
   margin: 40px auto;
 }
 
+form input,
+form textarea {
+  box-sizing: border-box;
+  border-radius: 5px;
+}
+
 input{
     width: 500px;
 }
