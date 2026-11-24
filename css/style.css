@@ -211,4 +211,14 @@ button:hover {
   background-color: black;
 }
 
+form label {
+  font-weight: bold;
+}
+
+form input,
+form textarea {
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  padding: 6px 10px;
+}
 
