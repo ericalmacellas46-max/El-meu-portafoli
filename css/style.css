@@ -218,6 +218,16 @@ button:hover {
   background-color: black;
 }
 
+input, textarea {
+    padding: 8px;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+input:focus, textarea:focus {
+    outline: none;
+    border-color: #000;
+}
 
 
 
